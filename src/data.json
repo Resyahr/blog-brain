@@ -1,0 +1,44 @@
+{
+  "logo": "./src/assets/logo.svg",
+  "logoAlt": "Company Logo",
+  "companyName": "BlogBrain",
+  "navbarLinks": {
+    "link-one": "Start Writing",
+    "link-two": "Sign in"
+  },
+  "heroTilt": "./src/assets/hero-tilt.svg",
+  "heroImage": "./src/assets/hero.svg",
+  "heroImageAlt": "Product Presentation",
+  "mainData": [
+    {
+      "first": {
+        "title": "Write Articles Faster",
+        "description": "With BlogBrain, you can write articles faster than usual. The AI-powered platform suggests ideas, outlines, and even writes complete sentences, allowing you to focus on adding your own voice and style.",
+        "image": "./src/assets/main-1.svg",
+        "alt": "Writer in front of laptop"
+      },
+      "second": {
+        "title": "Stay Informed on the Latest Topics",
+        "description": "With BlogBrain, you can stay up-to-date on the latest news and trends across a wide range of topics, from tech and science to business and entertainment. Our platform aggregates content from trusted sources across the web, so you can always have the information you need to create compelling, informative articles.",
+        "image": "./src/assets/main-2.svg",
+        "alt": "Writer in front of laptop browsing news"
+      },
+      "third": {
+        "title": "Discover New Ideas and Perspectives",
+        "description": "BlogBrain is more than just a writing tool - it's a community of writers, thinkers, and creators who share a passion for knowledge and discovery. With our platform, you can connect with like-minded individuals and discover new ideas and perspectives that inspire you to create your best work.",
+        "image": "./src/assets/main-3.svg",
+        "alt": "Writer in front of laptop, listening to music"
+      },
+      "fourth": {
+        "title": "Write your way",
+        "description": "With BlogBrain, you have the flexibility to choose whether or not you want to use our AI-powered writing assistant. You can write your articles your way, with or without the help of our advanced tools. So, whether you prefer the freedom of traditional writing or the speed of AI, BlogBrain has you covered.",
+        "image": "./src/assets/main-4.png",
+        "alt": "Handwriting with pencil"
+      }
+    }
+  ],
+  "signPageImage": {
+    "image": "./src/assets/signing-image.svg",
+    "alt": "Paper with pencils around"
+  }
+}
